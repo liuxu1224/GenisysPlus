@@ -1,9 +1,4 @@
-__本服务器用于我的世界便携版和我的世界windows10版__
-
-![GenisysPlus Logo](https://raw.githubusercontent.com/Tcanw/GenisysPlus/master/image/Logo.png)
-
-The Minecraft: Pocket Edition server written in PHP language 
-
+这是一个基于Genisys Plus的坑人核心，广告到位，开发团队没有良心，都不遵守github协议，拉低国人素质，我要删除这个Project,并备份，把广告去除，我是百度贴吧lx帅气，QQ826444126,不服试试，sb
 
 
 _本次更新_
